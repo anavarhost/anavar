@@ -1,1 +1,10 @@
-whitelist.json
+{
+  "whitelist": [
+    "Fusion",
+    "Ahc",
+    "David",
+    "Syphon",
+    "Charles"
+  ]
+}
+
