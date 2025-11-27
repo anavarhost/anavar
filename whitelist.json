@@ -1,10 +1,9 @@
 {
-  "whitelist": [
-    "fusiion",
-    "ahc",
-    "david",
-    "Syphon",
-    "Charles"
+  "players": [
+    { "Name": "fusiion" },
+    { "Name": "ahc" },
+    { "Name": "david" },
+    { "Name": "Syphon" },
+    { "Name": "Charles" }
   ]
 }
-
